@@ -37,7 +37,7 @@ Welcome to my GitHub profile! I'm a second year IT Student at International Burc
 ![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
 
 ## 🚀 Featured Projects
-- [TireShop Website](https://github.com/sorgerator/TireShop-Project): Responsive Website designed and developed for fictional Tire Shop, based in Sarajevo, as part of **Fundamentals of Web Development** course at [IBU](https://www.ibu.edu.ba/). Tech Stack: HTML5, CSS3, Bootstrap CSS
+- [TireShop Website](https://github.com/sorgerator/FastLane): Responsive Website designed and developed for fictional Tire Shop, based in Sarajevo, as part of **Fundamentals of Web Development** course at [IBU](https://www.ibu.edu.ba/). Tech Stack: HTML5, CSS3, Bootstrap CSS
 - [Movie Watchlist App](https://github.com/tsorguc/Movie-Watchlist-App): Full-Stack Adnroid App designed and developed as part of **Mobile Programming** course at [IBU](https://www.ibu.edu.ba/). Tech Stack: Kotlin, JetPack Compose
 - [Real Estate Market Monitor](https://github.com/tsorguc/Real-Estate-Market-Monitor): Real Estate Market Monitor developed as part of **Unstructured Data** course at [IBU](https://www.ibu.edu.ba/). Tech Stack: Python, LoopNet API
 
