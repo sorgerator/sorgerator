@@ -37,9 +37,9 @@ Welcome to my GitHub profile! I'm a second year IT Student at International Burc
 ![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
 
 ## 🚀 Featured Projects
+- [Omnifood Website](https://github.com/sorgerator/OmniFood): OmniFood Web App is the project I recently built as part of [HTML5 and CSS3 course](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3) by Jonas Schmedtman. Tech Stack: HTML5, CSS3, JavaScript
 - [TireShop Website](https://github.com/sorgerator/FastLane): Responsive Website designed and developed for fictional Tire Shop, based in Sarajevo, as part of **Fundamentals of Web Development** course at [IBU](https://www.ibu.edu.ba/). Tech Stack: HTML5, CSS3, Bootstrap CSS
-- [Movie Watchlist App](https://github.com/tsorguc/Movie-Watchlist-App): Full-Stack Adnroid App designed and developed as part of **Mobile Programming** course at [IBU](https://www.ibu.edu.ba/). Tech Stack: Kotlin, JetPack Compose
-- [Real Estate Market Monitor](https://github.com/tsorguc/Real-Estate-Market-Monitor): Real Estate Market Monitor developed as part of **Unstructured Data** course at [IBU](https://www.ibu.edu.ba/). Tech Stack: Python, LoopNet API
+- [LifeRPG App](https://github.com/sorgerator/LifeRPG): Full-Stack Adnroid App designed and currently under development as part of **Mobile Programming** course at [IBU](https://www.ibu.edu.ba/). This is one of the two projects(apps) developed as part of the course curriculum. Tech Stack: Kotlin and JetPack Compose. IDE: Android Studio
 
 ## 📫 Let's Connect!
 <p align="left">
