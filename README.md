@@ -38,8 +38,8 @@ Welcome to my GitHub profile! I'm a second year IT Student at International Burc
 
 ## 🚀 Featured Projects
 - [Omnifood Website](https://github.com/sorgerator/OmniFood): OmniFood Web App is the project I recently built as part of [HTML5 and CSS3 course](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3) by Jonas Schmedtman. Tech Stack: HTML5, CSS3, JavaScript
-- [TireShop Website](https://github.com/sorgerator/FastLane): Responsive Website designed and developed for fictional Tire Shop, based in Sarajevo, as part of **Fundamentals of Web Development** course at [IBU](https://www.ibu.edu.ba/). Tech Stack: HTML5, CSS3, Bootstrap CSS
-- [LifeRPG App](https://github.com/sorgerator/LifeRPG): Full-Stack Adnroid App designed and currently under development as part of **Mobile Programming** course at [IBU](https://www.ibu.edu.ba/). This is one of the two projects(apps) developed as part of the course curriculum. Tech Stack: Kotlin and JetPack Compose. IDE: Android Studio
+- [Real Estate Market Monitor](https://github.com/sorgerator/Real-Estate-Market-Monitor): Responsive Website designed and developed for fictional Tire Shop, based in Sarajevo, as part of **Fundamentals of Web Development** course at [IBU](https://www.ibu.edu.ba/). Tech Stack: HTML5, CSS3, Bootstrap CSS
+- [FilmFolio App](https://github.com/sorgerator/Movie-Watchlist-App): Full-Stack Adnroid App designed and currently under development as part of **Mobile Programming** course at [IBU](https://www.ibu.edu.ba/). This is one of the two projects(apps) developed as part of the course curriculum. Tech Stack: Kotlin and JetPack Compose, Hilt Dager, Google Firestore, SQLite, RoomDB. IDE: Android Studio
 
 ## 📫 Let's Connect!
 <p align="left">
