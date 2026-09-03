@@ -3,7 +3,7 @@
 🚀 **Data Science Student** | 🌍 **Based in Sarajevo, B&H** | 📊 **Passionate about engineering and analytics!**
 
 ## About Me
-Welcome to my GitHub profile! I'm a second year IT Student at International Burch University in Sarajevo, majoring in Data Science and AI. I enjoy learning and working on Full-Stack and Data Analytics Projects, merging my theoretical knowledge with real-world problems. Always eagar to learn and explore new technologies and tools.
+Welcome to my GitHub profile! I'm a third year IT Student at International Burch University in Sarajevo, majoring in Data Science and AI. I enjoy learning and working on Full-Stack and Data Analytics Projects, merging my theoretical knowledge with real-world problems. Always eagar to learn and explore new technologies and tools.
 
 - 🎓 **Education:** 2nd-year IT Student at [International Burch University (IBU)](https://www.ibu.edu.ba/) in Sarajevo.
 - 🎯 **Major:** Data Science and AI.
