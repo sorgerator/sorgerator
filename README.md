@@ -14,8 +14,9 @@ Welcome to my GitHub profile! I'm a third year IT Student at International Burch
 ## **Technologies & Tools**
 **Languages**
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
@@ -35,8 +36,9 @@ Welcome to my GitHub profile! I'm a third year IT Student at International Burch
 **AI Tools**
 
 ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
-![Ollama](https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-555?logo=claude)
 ![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
+![Ollama](https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white)
 
 ## 🚀 Featured Projects
 - [Omnifood Website](https://github.com/sorgerator/OmniFood): OmniFood Web App is the project I recently built as part of [HTML5 and CSS3 course](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3) by Jonas Schmedtman. Tech Stack: HTML5, CSS3, JavaScript
