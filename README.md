@@ -1,6 +1,6 @@
 # Hi there, I'm Tarik! 👋
 
-🚀 **Data Science Student** | 🌍 **Based in Sarajevo, B&H** | 📊 **Passionate about engineering and analytics!**
+🚀 **Data Science & AI Student** | 🌍 **Based in Sarajevo, B&H** | 📊 **Passionate about data and engineering!**
 
 ## About Me
 Welcome to my GitHub profile! I'm a third year IT Student at International Burch University in Sarajevo, majoring in Data Science and AI. I enjoy learning and working on Full-Stack and Data Analytics Projects, merging my theoretical knowledge with real-world problems. Always eagar to learn and explore new technologies and tools.
