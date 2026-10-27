@@ -41,12 +41,16 @@ Welcome to my GitHub profile! I'm a third year IT Student at International Burch
 ![Ollama](https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white)
 
 ## 🚀 Featured Projects
-- [Omnifood Website](https://github.com/sorgerator/OmniFood): OmniFood Web App is the project I recently built as part of [HTML5 and CSS3 course](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3) by Jonas Schmedtman. Tech Stack: HTML5, CSS3, JavaScript
-- [Real Estate Market Monitor](https://github.com/sorgerator/Real-Estate-Market-Monitor): Responsive Website designed and developed for fictional Tire Shop, based in Sarajevo, as part of **Fundamentals of Web Development** course at [IBU](https://www.ibu.edu.ba/). Tech Stack: HTML5, CSS3, Bootstrap CSS
-- [FilmFolio App](https://github.com/sorgerator/Movie-Watchlist-App): Full-Stack Adnroid App designed and currently under development as part of **Mobile Programming** course at [IBU](https://www.ibu.edu.ba/). This is one of the two projects(apps) developed as part of the course curriculum. Tech Stack: Kotlin and JetPack Compose, Hilt Dager, Google Firestore, SQLite, RoomDB. IDE: Android Studio
+- [FlyRank AI Internship](https://github.com/sorgerator/flyrank-internship) — ML pipeline and analytics tooling focused on content decay risk prediction, opportunity scoring, and automated refresh recommendations. Developed as part of the **internship** at [FlyRank AI](https://flyrank.ai/) [Live Demo](https://sorgerator.github.io/flyrank-internship/)
+- [Real-Estate Market Monitor](https://github.com/sorgerator/Real-Estate-Market-Monitor) — Data scraping and market monitoring dashboard designed to aggregate, track, and visualize real estate trends and pricing metrics. Developed as part of the **Unstructured Data** course at [IBU](https://www.ibu.edu.ba/). [Live Demo](https://gilded-piroshki-c37cae.netlify.app/)
+- [FastLane](https://github.com/sorgerator/FastLane) — Modern, responsive automotive service and booking platform built with optimized front-end workflows. Developed as part of **Fundamentals of Web Development** course at [IBU](https://www.ibu.edu.ba/). [Live Demo](https://fastlane-tsorguc.netlify.app/)
+- [OmniFood](https://github.com/sorgerator/OmniFood) — Responsive, modern landing page for an AI-powered healthy meal delivery subscription service. [Live Demo](https://omnifood-tsorguc.netlify.app/)
 
 ## 📫 Let's Connect!
 <p align="left">
+  <a href="https://tariksorguc.me" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio page" />
+  </a>
   <a href="https://www.linkedin.com/in/tarik-sorguc-27137523b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
